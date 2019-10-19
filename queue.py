@@ -41,6 +41,4 @@ while True:
     elif(a[0] == 'size'):
         print(q.size())
     else:
-        break
-
-        
+        break        
