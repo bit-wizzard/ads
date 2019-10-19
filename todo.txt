@@ -1,0 +1,7 @@
+stack
+queue
+linked list
+deque
+
+prime factorization
+решето эратосфена
